@@ -49,7 +49,7 @@ const Header = () => {
     >
       <Flex bg={"#ffffff50"} px={4} rounded={"full"} mb={5}>
         <Text color={StargateColors.white} fontSize={"xs"}>
-          Unleash The Power of AI
+          Do not unleash The Power of AI
         </Text>
       </Flex>
       <Heading
